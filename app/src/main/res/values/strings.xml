@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Compose Test</string>
+
+    <string name="no_connectivity_message">Kindly check your internet connectivity!</string>
 </resources>
